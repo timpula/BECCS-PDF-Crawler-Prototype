@@ -19,4 +19,4 @@ A minimal proof-of-concept showing that we can automatically discover, download,
    - Applies a simple point system (domain reputation + recency + keyword in title).  
    - Prints a sorted list of “most credible” BECCS PDFs first.
 
-Everything lives in **one Python script**—designed to be runnable in a single Jupyter Notebook cell or as a standalone `.py` file.
+Everything lives in **one Python script** designed to be runnable in a single Jupyter Notebook cell or as a standalone `.py` file.
