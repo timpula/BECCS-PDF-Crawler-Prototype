@@ -1,6 +1,6 @@
 # BECCS Grey Literature Miner (Rough Prototype)
 
-A minimal proof-of-concept showing that we can automatically discover, download, and rank BECCS-related “grey literature” PDFs from authoritative websites. This is **not** production-ready—just a quick prototype to prove feasibility.
+A minimal proof-of-concept showing that we can automatically discover, download, and rank BECCS-related “grey literature” PDFs from authoritative websites. This just a quick prototype to prove feasibility.
 
 ---
 
